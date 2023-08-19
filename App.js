@@ -7,7 +7,7 @@ import PageTwo from './PageTwo';
 export default function App() {
   return (
    
-  //  <PageOne/>
+   <PageOne/>
   //  <PageTwo/>
    
   );
@@ -26,4 +26,4 @@ const styles = StyleSheet.create({
 
 },
 
-});
+);
